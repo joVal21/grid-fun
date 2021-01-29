@@ -18,6 +18,8 @@ p, h4 {
 
 P {
     line-height: 35px;
+    letter-spacing: .5px;
+    font-size: 1.25em;
 }
 
 h4 {
