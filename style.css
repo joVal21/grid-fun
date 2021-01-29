@@ -16,6 +16,10 @@ p, h4 {
     margin: 40px;
 } 
 
+P {
+    line-height: 35px;
+}
+
 h4 {
     text-align: center;
 }
@@ -25,6 +29,7 @@ h1 {
     color: white;
     text-align: center;
     margin-top: 40px;
+    font-size: 2em;
 
 }
 
